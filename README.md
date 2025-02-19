@@ -9,14 +9,14 @@
 - 🔭 &nbsp; "Reaching For The Stars"
 - 🤔 &nbsp; Constantly exploring new scripts and finding new ways to optimize
 - 🎓 &nbsp; Studied at a trade school for Engineering.
-- 💼 &nbsp; Doing the impossible in GTA 5
+- 💼 &nbsp; Doing the impossible in GTA 5 & Red Dead Redemption 2
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence.
 - ✍️ &nbsp; Watching Anime and trying my hand at breaking things.
 - ☕ &nbsp; A perfect cup of coffee is the ultimate solution for any stress.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Lua | TypeScript | JavaScript | React
+- 💻 &nbsp; Lua | TypeScript | JavaScript | React | Next.js
 - 🌐 &nbsp; MariaDB | MySQL
 - ⌨️ &nbsp; Ubuntu Linux
 - 🔧 &nbsp; Visual Studio Code | GitLab | GitHub
