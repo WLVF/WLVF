@@ -17,7 +17,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Lua | TypeScript | JavaScript | React | Next.js
-- 🌐 &nbsp; MariaDB | MySQL
+- 🌐 &nbsp; MariaDB | MySQL | PostgreSQL
 - ⌨️ &nbsp; Ubuntu Linux
 - 🔧 &nbsp; Visual Studio Code | GitLab | GitHub
 - 🖥 &nbsp; Photoshop | Premiere Pro | After Effects | Illustrator
